@@ -1,0 +1,38 @@
+{
+  "background_color": "#ffffff",
+  "description": "Meu curriculo",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Curriculo Vinicius Dornellas",
+  "orientation": "any",
+  "scope": "https://curriculovd.netlify.app/",
+  "short_name": "curriculovd.netlify",
+  "start_url": "https://curriculovd.netlify.app/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "images/icon.png ",
+      "type": "image/png",
+      "sizes": "460x460",
+
+      "src": "images/icon.png ",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable",
+
+      "src": "images/icon.png ",
+      "type": "image/png",
+      "sizes": "512x512"
+
+    }
+  ],
+  "lang": "pt-BR",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "browser"
+  ],
+  "prefer_related_applications": false
+}
